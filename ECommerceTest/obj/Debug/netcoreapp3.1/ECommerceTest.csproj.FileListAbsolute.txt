@@ -84,7 +84,6 @@ C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcor
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.csprojAssemblyReference.cache
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.AssemblyInfoInputs.cache
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.AssemblyInfo.cs
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.csproj.CoreCompileInputs.cache
