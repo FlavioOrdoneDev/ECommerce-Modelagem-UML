@@ -1,0 +1,12 @@
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\bin\Debug\netcoreapp3.1\POO-Composicao.exe
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\bin\Debug\netcoreapp3.1\POO-Composicao.deps.json
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\bin\Debug\netcoreapp3.1\POO-Composicao.runtimeconfig.json
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\bin\Debug\netcoreapp3.1\POO-Composicao.runtimeconfig.dev.json
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\bin\Debug\netcoreapp3.1\POO-Composicao.dll
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\bin\Debug\netcoreapp3.1\POO-Composicao.pdb
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.AssemblyInfoInputs.cache
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.AssemblyInfo.cs
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.csproj.CoreCompileInputs.cache
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.dll
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.pdb
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.genruntimeconfig.cache
