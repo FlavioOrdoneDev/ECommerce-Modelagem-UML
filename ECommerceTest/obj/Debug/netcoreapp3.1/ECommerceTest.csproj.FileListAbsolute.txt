@@ -91,3 +91,4 @@ C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcor
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.dll
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.pdb
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.genruntimeconfig.cache
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.csprojAssemblyReference.cache
