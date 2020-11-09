@@ -10,3 +10,4 @@ C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netco
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.dll
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.pdb
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.genruntimeconfig.cache
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\POO-Composicao\obj\Debug\netcoreapp3.1\POO-Composicao.csprojAssemblyReference.cache
