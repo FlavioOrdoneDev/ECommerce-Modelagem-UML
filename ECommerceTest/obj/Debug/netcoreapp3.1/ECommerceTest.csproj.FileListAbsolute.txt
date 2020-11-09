@@ -92,3 +92,10 @@ C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcor
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.pdb
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.genruntimeconfig.cache
 C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\obj\Debug\netcoreapp3.1\ECommerceTest.csprojAssemblyReference.cache
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\ECommerce-Modelagem-UML.exe
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\ECommerce-Modelagem-UML.dll
+C:\Projetos\Cursos\Modelagem-de-Dados-UML\Projeto\ECommerceTest\bin\Debug\netcoreapp3.1\ECommerce-Modelagem-UML.pdb

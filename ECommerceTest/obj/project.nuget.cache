@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/hoF7VrO5lWxbP1jlf30eYWjS87xe83SptxqYTrm/Xc1agb4+7oVLA6G9MGCTTlsyyxHQoCPpcGNQNxxwpd0rA==",
+  "dgSpecHash": "/mVdtiSoUw+nHUPWCKzQbg5sD3m6n+0SgPW1qHJp++y/3/XIQmZfJHPcWU8pruzymXGS4XklOpoY+REDXhxhbA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\Cursos\\Modelagem-de-Dados-UML\\Projeto\\ECommerceTest\\ECommerceTest.csproj",
   "expectedPackageFiles": [
@@ -84,6 +84,7 @@
     "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
     "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\Flávio Ordone\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
